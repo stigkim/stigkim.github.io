@@ -1,35 +1,35 @@
 {
    "motionList":[
       {
-         "startTime":"0",
+         "startTime":0,
          "headDirection":"left",
          "leftArmDirection":"up",
          "rightArmDirection":"down",
          "wheelsDirection":"left"
       },
       {
-         "startTime":"1",
+         "startTime":1000,
          "headDirection":"right",
          "leftArmDirection":"down",
          "rightArmDirection":"up",
          "wheelsDirection":"right"
       },
       {
-         "startTime":"2",
+         "startTime":2000,
          "headDirection":"left",
          "leftArmDirection":"up",
          "rightArmDirection":"down",
          "wheelsDirection":"left"
       },
       {
-         "startTime":"3",
+         "startTime":3000,
          "headDirection":"right",
          "leftArmDirection":"down",
          "rightArmDirection":"up",
          "wheelsDirection":"right"
       },
       {
-         "startTime":"4",
+         "startTime":4000,
          "headDirection":"",
          "leftArmDirection":"",
          "rightArmDirection":"",
