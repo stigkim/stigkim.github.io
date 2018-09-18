@@ -8,21 +8,7 @@
          "wheelsDirection":"left"
       },
       {
-         "startTime":1000,
-         "headDirection":"right",
-         "leftArmDirection":"down",
-         "rightArmDirection":"up",
-         "wheelsDirection":"right"
-      },
-      {
          "startTime":2000,
-         "headDirection":"left",
-         "leftArmDirection":"up",
-         "rightArmDirection":"down",
-         "wheelsDirection":"left"
-      },
-      {
-         "startTime":3000,
          "headDirection":"right",
          "leftArmDirection":"down",
          "rightArmDirection":"up",
@@ -30,6 +16,20 @@
       },
       {
          "startTime":4000,
+         "headDirection":"left",
+         "leftArmDirection":"up",
+         "rightArmDirection":"down",
+         "wheelsDirection":"left"
+      },
+      {
+         "startTime":6000,
+         "headDirection":"right",
+         "leftArmDirection":"down",
+         "rightArmDirection":"up",
+         "wheelsDirection":"right"
+      },
+      {
+         "startTime":8000,
          "headDirection":"",
          "leftArmDirection":"",
          "rightArmDirection":"",
