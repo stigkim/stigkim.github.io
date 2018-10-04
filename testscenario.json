@@ -1,39 +1,28 @@
 {
-   "motionList":[
+   "id":"test001",
+   "name":"robot scenario script",
+   "robot":"robelf",
+   "version":"1.0.0",
+   "motions":[
       {
-         "startTime":0,
-         "headDirection":"left",
-         "leftArmDirection":"up",
-         "rightArmDirection":"down",
-         "wheelsDirection":"left"
+         "time":0,
+         "name":"body",
+         "param":[
+            "head,u,30",
+            "arm,u,90",
+            "arm_l,d,30",
+            "wheel,l,30"
+         ]
       },
       {
-         "startTime":2000,
-         "headDirection":"right",
-         "leftArmDirection":"down",
-         "rightArmDirection":"up",
-         "wheelsDirection":"right"
-      },
-      {
-         "startTime":4000,
-         "headDirection":"left",
-         "leftArmDirection":"up",
-         "rightArmDirection":"down",
-         "wheelsDirection":"left"
-      },
-      {
-         "startTime":6000,
-         "headDirection":"right",
-         "leftArmDirection":"down",
-         "rightArmDirection":"up",
-         "wheelsDirection":"right"
-      },
-      {
-         "startTime":8000,
-         "headDirection":"",
-         "leftArmDirection":"",
-         "rightArmDirection":"",
-         "wheelsDirection":""
+         "time":5000,
+         "name":"body",
+         "param":[
+            "head,d,30",
+            "arm,u,90",
+            "arm_l,d,30",
+            "wheel,r,30"
+         ]
       }
    ]
 }
