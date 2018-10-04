@@ -10,7 +10,6 @@
          "params":[
             "head,u,30",
             "arm,u,90",
-            "arm_l,d,30",
             "wheel,l,30"
          ]
       },
@@ -19,9 +18,17 @@
          "name":"body",
          "params":[
             "head,d,30",
-            "arm,u,90",
             "arm_l,d,30",
-            "wheel,r,30"
+            "arm_r,d,90",
+            "wheel,r,60"
+         ]
+      },
+      {
+         "time":10000,
+         "name":"body",
+         "params":[
+            "arm,u,180",
+            "wheel,f,20"
          ]
       }
    ]
