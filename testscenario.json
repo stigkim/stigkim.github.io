@@ -7,7 +7,7 @@
       {
          "time":0,
          "name":"body",
-         "param":[
+         "params":[
             "head,u,30",
             "arm,u,90",
             "arm_l,d,30",
@@ -17,7 +17,7 @@
       {
          "time":5000,
          "name":"body",
-         "param":[
+         "params":[
             "head,d,30",
             "arm,u,90",
             "arm_l,d,30",
