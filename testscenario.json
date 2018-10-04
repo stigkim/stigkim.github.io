@@ -8,6 +8,15 @@
          "time":0,
          "name":"body",
          "params":[
+            "head,0,0",
+            "arm,0,0",
+            "wheel,l,30"
+         ]
+      },
+      {
+         "time":2000,
+         "name":"body",
+         "params":[
             "head,u,30",
             "arm,u,90",
             "wheel,l,30"
@@ -28,7 +37,7 @@
          "name":"body",
          "params":[
             "arm,u,180",
-            "wheel,f,500"
+            "wheel,f,50"
          ]
       },
       {
@@ -37,7 +46,7 @@
          "params":[
             "head,0,0",
             "arm,0,0",
-            "wheel,b,500"
+            "wheel,b,50"
          ]
       }
    ]
