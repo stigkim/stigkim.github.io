@@ -30,6 +30,15 @@
             "arm,u,180",
             "wheel,f,5000"
          ]
+      },
+      {
+         "time":15000,
+         "name":"body",
+         "params":[
+            "head,0,0",
+            "arm,0,0",
+            "wheel,b,5000"
+         ]
       }
    ]
 }
