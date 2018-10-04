@@ -9,44 +9,43 @@
          "name":"body",
          "params":[
             "head,0,0",
-            "arm,0,0",
-            "wheel,l,30"
+            "arm,0,0"
          ]
       },
       {
-         "time":2000,
+         "time":3000,
          "name":"body",
          "params":[
             "head,u,30",
             "arm,u,90",
-            "wheel,l,30"
+            "wheel,l,60"
          ]
       },
       {
-         "time":5000,
+         "time":6000,
          "name":"body",
          "params":[
             "head,d,30",
             "arm_l,d,30",
             "arm_r,d,90",
-            "wheel,r,60"
+            "wheel,r,90"
          ]
       },
       {
-         "time":10000,
+         "time":9000,
          "name":"body",
          "params":[
             "arm,u,180",
-            "wheel,f,50"
+            "wheel,f,150"
          ]
       },
       {
-         "time":15000,
+         "time":12000,
          "name":"body",
          "params":[
             "head,0,0",
             "arm,0,0",
-            "wheel,b,50"
+            "wheel,b,100"
          ]
       }
    ]
