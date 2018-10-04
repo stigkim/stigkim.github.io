@@ -28,7 +28,7 @@
          "name":"body",
          "params":[
             "arm,u,180",
-            "wheel,f,5000"
+            "wheel,f,500"
          ]
       },
       {
@@ -37,7 +37,7 @@
          "params":[
             "head,0,0",
             "arm,0,0",
-            "wheel,b,5000"
+            "wheel,b,500"
          ]
       }
    ]
