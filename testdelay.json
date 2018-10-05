@@ -8,14 +8,22 @@
          "time":0,
          "name":"body",
          "params":[
-            "head,d,0",
-            "arm,d,0",
-            "delay,0,3000",
             "arm,u,0",
             "delay,0,1000",
-            "wheel,f,200",
-            "delay,0,2000",
-            "wheel,b,200"
+            "arm_l,d,20",
+            
+            "arm_l,u,20",
+            "arm_r,d,20",
+            
+            "arm_l,d,20",
+            "arm_r,u,20",
+            
+            "arm_l,u,20",
+            "arm_r,d,20",
+            
+            "arm_l,d,20",
+            "arm_r,u,20"
+            
          ]
       }
     ]
