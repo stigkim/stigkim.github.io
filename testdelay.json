@@ -22,7 +22,7 @@
             "arm_r,d,30",
             
             "arm_l,d,30",
-            "arm_r,u,30"
+            "arm_r,u,30",
             
             "delay,0,1000",
             "arm,0,0"
