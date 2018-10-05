@@ -1,0 +1,20 @@
+{
+   "id":"test-delay",
+   "name":"robot scenario script",
+   "robot":"robelf",
+   "version":"1.0.0",
+   "motions":[
+      {
+         "time":0,
+         "name":"body",
+         "params":[
+            "head,d,0",
+            "arm,d,0",
+            "delay,0,2000",
+            "arm,u,0",
+            "delay,0,1000",
+            "wheel,f,200"
+         ]
+      },
+
+}
