@@ -8,7 +8,7 @@
          "time":0,
          "name":"body",
          "params":[
-            "arm,u,0",
+            "arm,u,30",
             "delay,0,2000",
             "arm_l,d,30",
             
@@ -37,7 +37,9 @@
             "arm_r,u,30",
             
             "delay,0,1000",
+            "head,0,0"
             "arm,0,0"
+            
          ]
       }
     ]
