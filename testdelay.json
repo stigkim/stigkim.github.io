@@ -9,26 +9,30 @@
          "name":"body",
          "params":[
             "arm,u,0",
-            "delay,0,3000",
+            "delay,0,2000",
             "arm_l,d,30",
             
             "delay,0,300",
             
+            "head,u,10",
             "arm_l,u,30",
             "arm_r,d,30",
             
             "delay,0,300",
             
+            "head,d,10",
             "arm_l,d,30",
             "arm_r,u,30",
             
             "delay,0,300",
             
+            "head,u,10",
             "arm_l,u,30",
             "arm_r,d,30",
             
             "delay,0,300",
             
+            "head,d,10",
             "arm_l,d,30",
             "arm_r,u,30",
             
