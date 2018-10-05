@@ -12,19 +12,27 @@
             "delay,0,3000",
             "arm_l,d,30",
             
-            "arm_l,u,30",
-            "arm_r,d,30",
-            
-            "arm_l,d,30",
-            "arm_r,u,30",
+            "delay,0,1000",
             
             "arm_l,u,30",
             "arm_r,d,30",
             
+            "delay,0,1000",
+            
             "arm_l,d,30",
             "arm_r,u,30",
             
-            "delay,0,2000",
+            "delay,0,1000",
+            
+            "arm_l,u,30",
+            "arm_r,d,30",
+            
+            "delay,0,1000",
+            
+            "arm_l,d,30",
+            "arm_r,u,30",
+            
+            "delay,0,1000",
             "arm,0,0"
          ]
       }
