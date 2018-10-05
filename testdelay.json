@@ -13,7 +13,7 @@
             "delay,0,3000",
             "arm,u,0",
             "delay,0,1000",
-            "wheel,f,200"
+            "wheel,f,200",
             "delay,0,2000",
             "wheel,b,200"
          ]
