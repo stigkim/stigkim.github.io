@@ -10,7 +10,7 @@
          "params":[
             "head,d,0",
             "arm,d,0",
-            "delay,0,2000",
+            "delay,0,3000",
             "arm,u,0",
             "delay,0,1000",
             "wheel,f,200"
