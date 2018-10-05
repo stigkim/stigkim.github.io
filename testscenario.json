@@ -5,6 +5,14 @@
    "version":"1.0.0",
    "motions":[
       {
+         "time":0,
+         "name":"body",
+         "params":[
+            "head,d,0",
+            "arm,d,0"
+         ]
+      },
+      {
          "time":5000,
          "name":"body",
          "params":[
@@ -39,14 +47,6 @@
             "arm,0,0",
             "wheel,b,1000"
          ]
-      } ,
-      {
-         "time":25000,
-         "name":"body",
-         "params":[
-            "head,0,0",
-            "arm,0,0"
-         ]
-      },
+      }
    ]
 }
