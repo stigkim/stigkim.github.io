@@ -1,6 +1,7 @@
 {  
    "files":[  
       "testscenario.json",
-      "testdelay.json"
+      "testdelay.json",
+      "test_smile.json"
    ]
 }
