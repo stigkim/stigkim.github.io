@@ -2,6 +2,7 @@
    "files":[  
       "testscenario.json",
       "testdelay.json",
-      "test_smile.json"
+      "test_smile.json",
+      "test_shake1.json"
    ]
 }
