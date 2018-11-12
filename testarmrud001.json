@@ -1,5 +1,5 @@
 {
-   "id":"ahug",
+   "id":"ano390",
    "name":"robot scenario script",
    "robot":"robelf",
    "version":"1.0.0",
@@ -8,8 +8,13 @@
          "time":0,
          "name":"body",
          "params":[
-            "arm,u,120",            
-	    "delay,0,5000",
+            "arm,u,90",
+	    "arm,d,30",
+            "arm,u,90",
+	    "arm,d,30",
+	    "arm,u,90",
+	    "arm,d,30",            
+	    "delay,0,500",
             "arm,0,0"
           ]
       }
