@@ -1,0 +1,27 @@
+{
+   "id":"testarmsh",
+   "name":"robot scenario script",
+   "robot":"robelf",
+   "version":"1.0.0",
+   "motions":[
+      {
+         "time":0,
+         "name":"body",
+         "params":[
+         "arm_r,d,0",
+      
+         "delay,0,1000",
+         "arm_r,u,45"
+ 	      
+         "delay,0,1000",
+	       "arm_r,d,30"
+	       "arm_r,u,45"
+	       "arm_r,d,30"
+	       "arm_r,u,45"
+       
+         "delay,0,2000",
+         "arm_r,d,0",
+          ]
+      }
+   ]
+}
