@@ -1,0 +1,29 @@
+{
+   "id":"testmhorey",
+   "name":"robot scenario script",
+   "robot":"robelf",
+   "version":"1.0.0",
+   "motions":[
+      {
+         "time":0,
+         "name":"body",
+         "params":[
+         "arm,d,0",
+         "delay,0,1000",
+        
+         "arm,u,140"
+	       "delay,0,1000",
+
+         "arm,d,30"
+	       "arm,u,140"
+	       "delay,0,1000",
+	       
+         "arm,d,30"
+	       "arm,u,140"
+	       
+         "delay,0,1500",
+         "arm,d,0",
+          ]
+      }
+   ]
+}
