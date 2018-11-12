@@ -9,7 +9,7 @@
          "name":"body",
          "params":[
             "arm_r,u,45",
-            "delay,0,1500",
+            "delay,0,200",
             "arm_r,d,0"
           ]
       }
