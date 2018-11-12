@@ -10,7 +10,7 @@
          "params":[
             "arm_r,u,45",
             "deley,0,500",
-            "arm_r,d,45"
+            "arm_r,0,0"
           ]
       }
    ]
