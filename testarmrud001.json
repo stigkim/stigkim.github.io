@@ -8,15 +8,11 @@
          "time":0,
          "name":"body",
          "params":[
-            "armr,u,45"
-         ]
-      },
-      {
-         "time":5000,
-         "name":"body",
-         "params":[
             "armr,d,0",
-         ]
+            "deley
+            "armr,u,45"
+            "armr,d,0",
+          ]
       }
    ]
 }
