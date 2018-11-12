@@ -9,7 +9,7 @@
          "name":"body",
          "params":[
             "arm_r,u,45",
-            "arm_r,d,0"
+            "arm_r,d,45"
           ]
       }
    ]
