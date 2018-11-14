@@ -1,5 +1,5 @@
 {
-   "id":"arm-r-scr",
+   "id":"arm-90",
    "name":"robot scenario script",
    "robot":"robelf",
    "version":"1.0.0",
@@ -8,16 +8,28 @@
          "time":0,
          "name":"body",
          "params":[
-            "arm_r,u,160",
-            "delay,0,1000",
-            "arm_r,d,130",
-            "arm_r,u,160",
-            "arm_r,d,130",
-            "arm_r,u,160",
-            "arm_r,d,130",
-            "arm_r,u,160",
-            "delay,0,500",
-            "arm_r,0,0"
+            "arm_r,u,90",
+			"arm_l,d,-90",
+			"head,u,40",
+			"delay,0,500",
+			"arm_r,d,-180",
+			"arm_l,u,180",
+			"head,d,40",
+			"delay,0,500",
+			"arm_r,u,180",
+			"arm_r,d,-180",
+			"head,u,40",
+			"delay,0,500",
+			"arm_r,d,-180",
+			"arm_l,u,180",
+			"head,d,40",
+			"delay,0,500",
+			"arm_r,u,180",
+			"arm_r,d,-180",
+			"head,u,40",
+			"delay,0,500",
+			"arm,0,0",
+			"head,0,0"
           ]
       }
    ]
