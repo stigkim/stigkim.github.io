@@ -9,8 +9,9 @@
          "name":"body",
          "params":[
             "arm_r,0,0",
-            "arm_r,d,-90",
+            "arm_r,u,-90",
             "delay,0,2000",
+            "arm_r,d,90",
             "arm_r,u,90",
             "delay,0,2000"
           ]
