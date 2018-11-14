@@ -1,5 +1,5 @@
 {
-   "id":"arm-hug",
+   "id":"arm-l-hi",
    "name":"robot scenario script",
    "robot":"robelf",
    "version":"1.0.0",
@@ -8,9 +8,16 @@
          "time":0,
          "name":"body",
          "params":[
-            "arm,u,100",            
-	    "delay,0,5000",
-            "arm,0,0"
+            "arm_l,u,160",
+            "delay,0,1000",
+            "arm_l,d,130",
+            "arm_l,u,160",
+            "arm_l,d,130",
+            "arm_l,u,160",
+            "arm_l,d,130",
+            "arm_l,u,160",
+            "delay,0,500",
+            "arm_l,0,0"
           ]
       }
    ]
