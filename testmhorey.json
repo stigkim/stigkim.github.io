@@ -1,5 +1,5 @@
 {
-   "id":"arm-l-hi",
+   "id":"arm-30",
    "name":"robot scenario script",
    "robot":"robelf",
    "version":"1.0.0",
@@ -8,22 +8,31 @@
          "time":0,
          "name":"body",
          "params":[
-            "arm_l,u,160",
-            "delay,0,1200",
-            "arm_l,d,130",
-            "delay,0,1000",
-            "arm_l,u,160",
-            "delay,0,1000",
-            "arm_l,d,130",
-            "delay,0,1000",
-            "arm_l,u,160",
-            "delay,0,1000",
-            "arm_l,d,130",
-            "delay,0,1000",
-            "arm_l,u,160",
-            "delay,0,1000",
-            "arm_l,0,0"
-          ]
+            "arm,u,30",
+            "delay,0,300",
+            "arm,u,30",
+            "delay,0,600",
+            "arm,u,30",
+            "delay,0,900",
+            "arm,u,60",
+            "delay,0,300",
+            "arm,u,60",
+            "delay,0,600",
+            "arm,u,60",
+            "delay,0,900",
+            "arm,u,90",
+            "delay,0,300",
+            "arm,u,90",
+            "delay,0,600",
+            "arm,u,90",
+            "delay,0,900",
+            "arm,u,120",
+            "delay,0,300",
+            "arm,u,120",
+            "delay,0,600",
+            "arm,u,120",
+            "delay,0,900"
+                 ]
       }
    ]
 }
