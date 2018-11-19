@@ -9,12 +9,13 @@
          "name":"body",
          "params":[
             "arm,u,60",
-			"delay,0,500",
-			"arm,0,0",
+			"delay,0,600",
+			"arm,d,30",
 			"arm,u,60",
-			"arm,0,0",
+		        "delay,0,300",
+			"arm,d,30",
 			"arm,u,60",
-			"delay,0,150",
+		        "delay,0,300",
 			"arm,0,0"
 		          ]
       }
