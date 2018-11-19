@@ -1,5 +1,5 @@
 {
-   "id":"armr2low",
+   "id":"neckstlr",
    "name":"robot scenario script",
    "robot":"robelf",
    "version":"1.0.0",
@@ -8,18 +8,25 @@
          "time":0,
          "name":"body",
          "params":[
-            "arm_r,u,45",
-			"delay,0,350",
-			"arm_r,d,30",
-			"delay,0,150",
-			"arm_r,u,30",
-			"delay,0,150",
-			"arm_r,d,30",
-			"delay,0,150",
-			"arm_r,u,30",
-			"delay,0,200",
-			"arm_r,0,0"
-		          ]
+            "head,d,10",
+		    "delay,0,150",
+			"head,l,30",
+		    "delay,0,400",
+			"head,u,20",
+		    "delay,0,300",
+			"head,r,30",
+		    "delay,0,400",
+			"head,d,20",
+		    "delay,0,300",
+			"head,r,30",
+		    "delay,0,400",
+			"head,u,20",			
+			"delay,0,300",
+			"head,l,30",
+			"delay,0,400",
+			"head,d,10",
+		    "delay,0,150"
+			 ]
       }
    ]
 }
