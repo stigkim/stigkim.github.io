@@ -8,14 +8,14 @@
          "time":0,
          "name":"body",
          "params":[
-            "arm,u,60",
-			"delay,0,500",
+            "arm,u,45",
+			"delay,0,400",
 			"arm,d,30",
-			"arm,u,60",
-		        "delay,0,300",
+			"arm,u,45",
+		        "delay,0,150",
 			"arm,d,30",
-			"arm,u,60",
-		        "delay,0,300",
+			"arm,u,45",
+		        "delay,0,150",
 			"arm,0,0"
 		          ]
       }
