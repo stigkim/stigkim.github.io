@@ -9,15 +9,15 @@
          "name":"body",
          "params":[
             "arm_r,u,45",
-			"delay,0,500",
-			"arm_r,d,15",
+			"delay,0,400",
+			"arm_r,d,30",
 			"delay,0,150",
-			"arm_r,u,15",
+			"arm_r,u,30",
 			"delay,0,150",
-			"arm_r,d,15",
+			"arm_r,d,30",
 			"delay,0,150",
-			"arm_r,u,15",
-			"delay,0,150",
+			"arm_r,u,30",
+			"delay,0,200",
 			"arm_r,0,0"
 		          ]
       }
