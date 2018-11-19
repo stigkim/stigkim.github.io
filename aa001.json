@@ -11,9 +11,9 @@
          "head,d,10",
 		 "delay,0,150",
 		 "head,u,20",
-		 "delay,0,300",
+		 "delay,0,350",
 		 "head,d,20",
-		 "delay,0,300",
+		 "delay,0,350",
 		 "head,u,10",
 		 "delay,0,150"
 		]
