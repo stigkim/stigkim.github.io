@@ -1,0 +1,25 @@
+{
+   "id":"arm2low",
+   "name":"robot scenario script",
+   "robot":"robelf",
+   "version":"1.0.0",
+   "motions":[
+      {
+         "time":0,
+         "name":"body",
+         "params":[
+            "arm,u,45",
+			"delay,0,500",
+			"arm,d,15",
+			"delay,0,150",
+			"arm,u,15",
+			"delay,0,150",
+			"arm,d,15",
+			"delay,0,150",
+			"arm,u,15",
+			"delay,0,150",
+			"arm,0,0"
+		          ]
+      }
+   ]
+}
