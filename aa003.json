@@ -1,0 +1,22 @@
+{
+   "id":"neckstlr",
+   "name":"robot scenario script",
+   "robot":"robelf",
+   "version":"1.0.0",
+   "motions":[
+      {
+         "time":0,
+         "name":"body",
+         "params":[
+            "head,d,15",
+			"head,l,30",
+			"head,u,30",
+			"head,r,60",
+			"head,d,30",
+			"head,l,30",
+			"head,u,15",			
+			"delay,0,300"
+		          ]
+      }
+   ]
+}
