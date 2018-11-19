@@ -1,5 +1,5 @@
 {
-   "id":"arm-90",
+   "id":"head-lr",
    "name":"robot scenario script",
    "robot":"robelf",
    "version":"1.0.0",
@@ -8,8 +8,12 @@
          "time":0,
          "name":"body",
          "params":[
-            "head,0,0"
-          ]
+            "head,l,30",
+			"head,r,60",
+			"head,l,60",
+			"head,r,30",
+			"delay,0,300"
+		          ]
       }
    ]
 }
