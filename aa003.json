@@ -8,20 +8,20 @@
          "time":0,
          "name":"body",
          "params":[
-            "head,d,15",
+            "head,d,10",
 		 "delay,0,150",
 			"head,l,30",
-		 "delay,0,300",
-			"head,u,30",
+		 "delay,0,400",
+			"head,u,20",
 		 "delay,0,300",
 			"head,r,60",
-		 "delay,0,600",
-			"head,d,30",
+		 "delay,0,800",
+			"head,d,20",
 		 "delay,0,300",
 			"head,l,30",
-		 "delay,0,300",
-			"head,u,15",			
-			"delay,0,300"
+		 "delay,0,400",
+			"head,u,10",			
+			"delay,0,150"
 		          ]
       }
    ]
