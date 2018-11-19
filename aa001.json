@@ -9,7 +9,7 @@
          "name":"body",
          "params":[
          "head,d,10",
-		 "delay,0,150",
+		 "delay,0,200",
 		 "head,u,20",
 		 "delay,0,350",
 		 "head,d,20",
