@@ -1,5 +1,5 @@
 {
-   "id":"neckstlr",
+   "id":"head-ud",
    "name":"robot scenario script",
    "robot":"robelf",
    "version":"1.0.0",
@@ -8,21 +8,13 @@
          "time":0,
          "name":"body",
          "params":[
-            "head,d,10",
-		    "delay,0,150",
-			"head,r,30",
-		    "delay,0,400",
-			"head,u,20",
-		    "delay,0,300",
-			"head,l,60",
-		    "delay,0,600",
-			"head,d,20",
-		    "delay,0,300",
-			"head,r,30",
-		    "delay,0,400",
-			"head,u,10",			
-			"delay,0,150"
-		 ]
+         "head,d,10",
+		 "delay,0,150",
+		 "head,u,20",
+		 "delay,0,300",
+		 "head,d,20",
+		 "delay,0,300",
+		 "head,u,10",
+		" delay,0,150"
+		]
       }
-   ]
-}
