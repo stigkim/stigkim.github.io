@@ -9,8 +9,11 @@
          "name":"body",
          "params":[
             "head,l,30",
-			"head,r,60",
-			"head,l,60",
+		 "delay,0,300",
+		 "head,r,60",
+		 "delay,0,600",
+		 "head,l,60",
+		 "delay,0,600",
 			"head,r,30",
 			"delay,0,300"
 		          ]
