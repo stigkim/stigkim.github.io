@@ -11,10 +11,8 @@
 		     "head,u,10",
              "arm,u,140",
 	         "delay,0,1000",
-             "arm,d,30",
-	         "arm,u,140",
 			 "head,d,20",
-	         "delay,0,1000",
+	         "delay,0,500",
              "arm,0,0",
 			 "head,u,10"
           ]
